@@ -1,0 +1,13 @@
+{
+  "name": "lab-1",
+  "version": "1.0.0",
+  "license": "ISC",
+  "author": "Vako",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1"
+  }
+}
